@@ -1,3 +1,4 @@
+**Netflix Clone**
 This is a fully responsive Netflix clone designed to demonstrate my frontend development skills. The project replicates several key design elements from the Netflix platform, including the layout, grid system, and interactive features.
 
 Key Features:
